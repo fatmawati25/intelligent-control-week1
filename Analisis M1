@@ -1,0 +1,3 @@
+Setelah tugas diberikan dan melakukan tahapan-tahapan yang ada, terjadi kegagalan saat Setup Environment dengan GitHub pada tahap Clone repository ke komputer. Hal tersebut dikarenakan terminal yang digunakan tidak dapat memproses data/inputan yang diberikan, solusinya adalah dengan mengunduh Software Pyhton dan menyelesaikan proses penginstalan dengan benar.
+Pada Langkah 3: Instalasi Library, jika terjadi kegagalan pengunduhan maka terdapat menu yang belum di pilih/centang saat penginstalan Python dan harus dilakukan penginstalan ulang.
+Jika penginstalan semua software dan library sudah benar, maka coding dapat di runing pada VSCode.
